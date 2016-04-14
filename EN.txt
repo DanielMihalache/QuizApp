@@ -1,0 +1,35 @@
+QuizApp v1.3
+Yes
+No
+Solve Quiz
+Create Quiz
+Options
+Quiz name
+Please enter quiz name
+-> Write the question here <-
+-> Write an answer here <-
+Add answer
+Remove answer
+Add Result
+Remove Result
+Cancel
+Are you sure you want to cancel?
+Finish
+Next Question
+Results
+Select an directory
+File could not be saved!
+Are you sure you want to overwrite
+jpg & gif image
+Choose an image
+Image cannot be opened
+Results
+sda
+Click-me!
+Please select a number between:
+Please write a brief description of the result
+Title
+QuizApp files
+Next
+Previous
+Submit
